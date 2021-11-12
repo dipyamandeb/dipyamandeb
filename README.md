@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @dipyamandeb
-- 👀 I’m interested in Product Developement
-- 🌱 I’m currently learning Microservices
-- 💞️ I’m looking to collaborate on Open source Projects
+- 👋 Hi, I’m Dipyaman Deb
+- 👀 I’m interested in Product Developement.
+- 🌱 I’m currently learning Microservices.
+- 💞️ I’m looking to collaborate on Open Source Projects.
 - 📫 How to reach me ... Try sending email at dipyamandeb19@gmail.com or visit https://www.linkedin.com/in/dipyaman-deb-90376b167/
 
 <!---
