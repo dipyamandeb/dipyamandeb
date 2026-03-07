@@ -41,9 +41,6 @@ Tech Stack:
 - Multithreading
 - Executor Framework
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dipyamandeb)
-
 ## 📫 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/dipyamand/
 - Email: dipyamandeb19@gmail.com
